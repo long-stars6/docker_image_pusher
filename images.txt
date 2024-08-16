@@ -7,3 +7,5 @@ xhofe/alist:latest
 nginx:latest
 mysql:latest
 nginx-ingress-controller:latest
+ingress-nginx/kube-webhook-certgen:v1.4.3
+ingress-nginx/controller:v1.11.2

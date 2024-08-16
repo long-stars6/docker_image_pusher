@@ -7,6 +7,6 @@ xhofe/alist:latest
 nginx:latest
 mysql:latest
 
-quay.io/azimuth/registry.k8s.io/ingress-nginx/kube-webhook-certgen
+quay.io/azimuth/registry.k8s.io/ingress-nginx/kube-webhook-certgen:latest
 
-quay.io/kubernetes-ingress-controller/nginx-ingress-controller
+quay.io/kubernetes-ingress-controller/nginx-ingress-controller:latest

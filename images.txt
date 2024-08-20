@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 nginx:latest
 mysql:latest
-docker pull node:20-alpine
+node:20-alpine

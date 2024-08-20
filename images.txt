@@ -7,3 +7,4 @@ xhofe/alist:latest
 
 node:14-alpine
 node:20-alpine
+maven:3.8.6-jdk-8

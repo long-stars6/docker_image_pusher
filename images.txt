@@ -7,3 +7,4 @@ xhofe/alist:latest
 nginx:latest
 mysql:latest
 node:14-alpine
+node:20-alpine

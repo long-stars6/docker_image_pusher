@@ -6,7 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 nginx:latest
 mysql:latest
-
-quay.io/azimuth/registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3
-
-quay.io/kubernetes-ingress-controller/nginx-ingress-controller:latest
+docker pull node:20-alpine

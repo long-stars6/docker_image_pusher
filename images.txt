@@ -6,5 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 nginx:latest
 mysql:latest
-node:20-alpine
 node:14-alpine
